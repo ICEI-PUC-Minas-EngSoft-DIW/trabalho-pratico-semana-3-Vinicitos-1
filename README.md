@@ -8,17 +8,17 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
-
+- Nome: Vinicius do Amaral Fonseca Filho    
+- Matricula: 789221
+- Proposta de projeto escolhida: 4 Coleções e Itens
+- Breve descrição sobre seu projeto: Meu projeto é uma visualizador de cartas de Magic The Gathering. Você adicona os filtros e ele mostra até 100 cartas naquele requisito. A API usada futuramento seria essa docs.magicthegathering.io
 
 ## Print do(s) wireframe(s) criado
 
-<<  COLOQUE A IMAGEM AQUI >>
+![LandingPage](Wireframe1.png)
 
+![CardPage](Wireframe2.png)
 
 ## Print da home-page criada
 
-<<  COLOQUE A IMAGEM AQUI >>
+![HomePage](Homepage.png)
