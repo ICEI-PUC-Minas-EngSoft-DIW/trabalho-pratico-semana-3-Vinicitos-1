@@ -3,7 +3,7 @@
   --container-color: #d1d1d1;
   --card-color: #bdbdbd;
   --text-color: #333;
-  --border-radius: 10px;
+  --border-radius: 11px;
   --card-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
@@ -40,7 +40,7 @@ body {
 .menu .btn-random {
   padding: 0.5rem 1rem;
   border: none;
-  border-radius: 5px;
+  border-radius: 4px;
   background-color: #a0a0a0;
   color: var(--text-color);
   cursor: pointer;
